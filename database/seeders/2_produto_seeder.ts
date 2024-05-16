@@ -9,7 +9,7 @@ export default class extends BaseSeeder {
     {nome: "Coca-Cola", preco: 8, tamanho:"600ml", tipoId: 1},
     {nome: "Coca-Cola", preco: 6.50, tamanho:"290ml", tipoId: 1},
 
-    {nome: "x-tudo", preco: 10, tipoId: 1},
+    {nome: "x-tudo", preco: 10, tipoId: 2},
     {nome: "x-tudo Master", preco: 15, tipoId: 2},
     {nome: "x-Picanha", preco: 20, tipoId: 2},
 
